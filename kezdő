@@ -1,0 +1,38 @@
+<DOCTYPE!>
+<html>
+	<head>
+		<link rel="stylesheet" href="kezdő.css">
+		<meat charset="utf-8"/>
+		<title>Bemutatkozás</title>
+	</head>
+	<body>
+		<h1>Jung Levente hobbijai</h1>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<table>
+			<tr>
+				<th><a href="2.html" target=_blond>Film/Sorozat nézés</a></th>
+				<th><a href="3.html" target=_blond>Kirándulás</a></th>
+				<th><a href="4.html" target=_blond>Kártyajátékok</a></th>
+				<th><a href="5.html" target=_blond>Floorball</a></th>
+			</tr>				
+			<tr>
+				<td><img src="Stranger_Things_logo.png" alt="Stranger Things logó"/></td>
+				<td><img src="kirandulas.jpg" alt="Táj"/></td>
+				<td><img src="poker.jpg" alt="Póker"/></td>
+				<td><img src="floorball.jpg" alt="Floorball meccs"/></td>
+			</tr>
+		</table>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<br/>
+		<p>A hobbi a szabadidőben végzett, pihenést, kikapcsolódást szolgáló, örömöt szerző tevékenységek. Egyes hobbitevékenységek egyben gazdasági haszonnal is járhatnak.</p>
+		<br/>
+		<p>Általában az embereknek hobbija, mert érdeklődik iránta vagy örömszerzés miatt, de nem anyagi indokokból, bár vannak olyan hobbik is, amikkel pénz is lehet keresni, ha arra specializálódott hobbit keresünk. Az elmélyülten végzett hobbitevékenységnek következménye lehet, hogy valaki alapos ismeretekre, jártasságra és készségre, tudásra és tapasztalatra tesz szert egy vagy több területen. A stressz levezetésében is segíthet vagy akár fizikailág és szellemileg fejlődni, ha talál az ember egy új hobbit.</p>
+	</body>
+<html>
