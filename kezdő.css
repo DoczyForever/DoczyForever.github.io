@@ -1,0 +1,23 @@
+body
+{
+	background-color: lightgreen;
+}
+table, tr, th, td
+{
+	border: 2px solid black;
+	margin:auto;
+	background: grey;
+}
+th{font-size: 25;}
+img
+{
+	height: 200px;
+}
+h1{text-align: center; font-size: 45;}
+p
+{
+	text-align: justify;
+	font-size: 20;
+	margin-left: 150;
+	margin-right: 150;
+}
